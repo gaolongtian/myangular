@@ -1,0 +1,10 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:gaolongtian/angular.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	puttykeyfile = E:\\java mykey\\mykey.ppk
