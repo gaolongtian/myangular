@@ -1,0 +1,38 @@
+.logintop {
+  margin-top: 15%;
+}
+
+.navbarheight {
+  height: 65px;
+}
+
+.backgroundimage {
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+}
+
+.imgsize {
+  width: 100%;
+  height: 100%;
+}
+
+.navopacity {
+  opacity: 0.5;
+}
+
+.imgbrand {
+  width: 120px;
+  height: 50px;
+  top: -10px;
+}
+
+.navbar-brand {
+  padding: 5px;
+}
+.zhuce{
+  margin-left: 50%;
+}
